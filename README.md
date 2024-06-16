@@ -1,4 +1,5 @@
-<h1>자세한 내용은 Muhan Intranet.pdf를 참고해주시면 감사하겠습니다.</h1>
+<h2>자세한 내용은 Muhan Intranet.pdf를 참고해주시면 감사하겠습니다.</h2>
+
 ![ppt1](https://github.com/szoee/muhan_intranet/assets/155424048/ecfa4ff3-af15-4e65-9e3b-353d8055d802)
 ![ppt2](https://github.com/szoee/muhan_intranet/assets/155424048/3c367123-4bc7-4cf6-8fbe-f082af3225e2)
 ![ppt3](https://github.com/szoee/muhan_intranet/assets/155424048/9e0e830d-8bba-4a27-bf9f-e8ef6246fef8)
