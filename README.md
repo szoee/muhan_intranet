@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=40&desc=I'm%20Seo%20Young)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=7a7fff&height=200&section=header&text=Hello%20World!&fontAlignY=30&stroke=002eff&fontSize=40&desc=I'm%20Seo%20Young&descAlignY=50&fontColor=ffffff)
 
 <h3> Ver <br>
    :sparkles: JDK 11.0.2 <br>
