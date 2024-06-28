@@ -8,6 +8,8 @@
 
 
 <h3>:pushpin: 자세한 내용은 Muhan Intranet.pdf를 참고해주시면 감사하겠습니다. :pushpin:</h3>
+Download: (https://github.com/user-attachments/files/16025358/Muhan.Intranet.PPT.pdf) <br><br>
+
 
 
 ![ppt1](https://github.com/szoee/muhan_intranet/assets/155424048/ecfa4ff3-af15-4e65-9e3b-353d8055d802)
